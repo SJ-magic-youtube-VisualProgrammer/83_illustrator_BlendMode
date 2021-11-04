@@ -1,0 +1,37 @@
+/************************************************************
+************************************************************/
+★Photoshop 描画モードはこれで理解できる実用サンプル付き！
+	https://design-trekker.jp/design/photoshop/drawing-mode/
+
+★【Photoshop】描画モードの使い方とショートカットを解説【全27種】
+	https://321web.link/blending-modes/
+
+■Photoshopのブレンドモード（描画モード）って何ぞ？
+	http://markup.webcrew.co.jp/art_20150116.html
+
+■レイヤーの合成モードの使い方【覚えるのは3種類】
+	https://asakiriu.com/layer-mode/#toc10
+
+■Photoshopの描画モード -「オーバーレイ（おーばーれい）」とは-
+	https://www.wave-inc.co.jp/weblog/?p=1661
+
+■Photoshopの描画モードを理解する〜「乗算」を理解すれば「スクリーン」もわかる
+	https://itstudio.co/2017/04/28/6638/#toc6
+
+■なんとなく、からぬけだそう。知っておきたい描画モードの仕組み
+	http://creator.dwango.co.jp/11568.html
+
+■Photoshopの描画モード -「スクリーン(すくりーん)」とは-
+	https://www.wave-inc.co.jp/weblog/?p=1617
+
+■Photoshopにおける，レイヤーのブレンドモードについて
+	https://www.fbs.osaka-u.ac.jp/labs/ishijima/Photoshop-01.html
+
+★ブレンドモード詳説
+	https://ofo.jp/osakana/cgtips/blendmode.phtml#darken
+
+★Photoshopの描画モード(ブレンドモード)を理解するための、画像合成は計算だという話
+	http://www.cg-ya.net/2dcg/aboutimage/composite-is-math/
+
+
+
